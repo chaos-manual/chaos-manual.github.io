@@ -1,8 +1,8 @@
 # Chaos Engineering Manual
 
-We document a chaos engineering process the way it works in practice. 
-It's no magic, it's plenty of things to care about.
-
+We document a chaos engineering process the way it works 
+in industrial-grade practice. It's not magic, it's just 
+plenty of things to decide on. 
 
 ## Project review
 
@@ -27,6 +27,8 @@ to prioritize complexity and costs of staging the tests.
 - распочковывание задач команде + проблемы + риски
 - тесты, которые проходят
 
-## Contacts
+## Feedback 
 
-See us [on Twitter](https://twitter.com/v10n10).
+Please leave a note or question in [Github issues](https://github.com/epogrebnyak/chaos-manual/issues).
+
+You can also follow us [on Twitter](https://twitter.com/v10n10).

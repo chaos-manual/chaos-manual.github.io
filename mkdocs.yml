@@ -1,4 +1,4 @@
-site_name: Chaos Engineering Manual, v0.1
+site_name: Chaos Engineering Manual
 
 theme:
   name: material

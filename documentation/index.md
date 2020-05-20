@@ -3,6 +3,7 @@
 We document a chaos engineering process the way it works in practice. 
 It's no magic, it's plenty of things to care about.
 
+
 ## Project review
 
 The manual describes a working chaos engineering process starting 
@@ -25,3 +26,7 @@ to prioritize complexity and costs of staging the tests.
 - задача на исследование команде (почему так получилось)
 - распочковывание задач команде + проблемы + риски
 - тесты, которые проходят
+
+## Contacts
+
+See us [on Twitter](https://twitter.com/v10n10).

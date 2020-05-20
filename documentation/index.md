@@ -2,7 +2,7 @@
 
 We document a chaos engineering process the way it works 
 in industrial-grade practice. It's not magic, it's just 
-plenty of things to decide on. 
+plenty of things to decide on.
 
 ## Project review
 

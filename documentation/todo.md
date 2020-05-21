@@ -43,15 +43,17 @@ Maybe:
 Разобрться с деталями #docs:
 
 - [ ] как вести две языковые версии?
-- [ ] [как мы сортируем левый боковик](https://github.com/mkdocs/mkdocs/issues/2113)
 - [ ] украшения, "admonitions"
 - [ ] эмблемка twitter из шритфов
 - [ ] docs folder vs gh-pages branch for Github Pages (gh-pages no longer an option)
-- [ ] [кнопка edit показывает не туда сейчас](https://github.com/chaos-manual/docs/issues/1)
  
 Done:
 
 - [x] Cite authors (EP, DY)
+- [ ] follow-up: DY Twitter personal info
+- [x] docs: [как мы сортируем левый боковик](https://github.com/mkdocs/mkdocs/issues/2113)
+- [x] docs: [кнопка edit показывает не туда сейчас](https://github.com/chaos-manual/docs/issues/1)
+
 
 Not todo:
 

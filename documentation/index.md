@@ -18,7 +18,7 @@ and prepared.
 
 Getting more 9's is a journey, not a single act, so let's start!
 
-## Section annotations
+## What is inside this manual?
 
 The core of our manual is CE [process description](process.md). It outlines the starting points and outcomes of chaos engineering and relations of CE to other software engineering/devops/business processes.
 

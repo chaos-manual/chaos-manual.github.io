@@ -7,26 +7,27 @@ Decisions:
 - we now deliver to Github pages via docs folder, not through master
 - we need two language versions (in Russian as we discuss, English for wider community)
 
-## Priority:
+## Priority
 
-* [ ] Find copywriter
+* [x] Find copywriter
 * [ ] Pick topics for v 0.1
     * [x] Scope (Who can use this manual?)
     * [x] Process - центральное описнаие в чем состоит процесс
     * [ ] Types of incidents
     * [ ] Прошлые материалы
-- [ ] Show to some readers! 
+* [ ] Show to some readers! 
+* [ ] Голосование про какие атаки вы хотите узнать в первую очередь?
 
-## Кому рассказываем:
+## Кому рассказываем
 
 - [ ] Blog posts and other outputs
 - [ ] Collect feedback 
 
-## Wishlist:
+## Wishlist
 
-- не нравится "Three step process"
+- не нравится "Three step process" "Методология"
 
-## Прошлые материалы:
+## Прошлые материалы
 
 - [ ] CE obstacles - почему не взлетает CE - дискуссия  c Jade
 

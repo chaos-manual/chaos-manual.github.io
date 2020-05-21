@@ -1,27 +1,37 @@
 # Our todo list
 
+This list will be removed from a release version, keeping fere for now. 
+
+Decisions:
+
+- we now deliver to Github pages via docs folder, not through master
+- we need two language versions (in Russian as we discuss, English for wider community)
+
 Priority:
 
-* [ ] Keep one or add two languages (may keep as one-pager for now)
-* [ ] Pick topics for v 0.1
-    * [ ] Scope (Who can use this manual?)
-    * [ ] Process - центральное описнаие в чем состоит процесс
-    * [ ] Types of incidents
 * [ ] Find copywriter
+* [ ] Pick topics for v 0.1
+    * [x] Scope (Who can use this manual?)
+    * [x] Process - центральное описнаие в чем состоит процесс
+    * [ ] Types of incidents
+    * [ ] Прошлые материалы
+- [ ] Show to some readers! 
 
-Other:
+Кому рассказываем:
 
 - [ ] Blog posts and other outputs
-- [ ] Collect feedback - find readers!
-- [ ] Cite authors (EP, DY)
+- [ ] Collect feedback 
 
 Maybe:
 
-- [ ] Slack channels chaos-manual, chaos-manual-ru
-- [ ] docs: перейти
-- [ ] поменять что-то с v10n.com (пока как есть)
+- [ ] ссылка на какой-то личный профиль Димы (у меня Твиттер)
 
-Новые темы / взять из уже написанного:
+Not todo:
+
+- [ ] поменять что-то с v10n.com (пока как есть)
+- [ ] Slack channels chaos-manual, chaos-manual-ru
+
+Прошлые материалы:
 
 - [ ] CE obstacles - почему не взлетает CE - дискуссия  c Jade
 
@@ -33,9 +43,13 @@ Maybe:
 
 Разобрться с деталями #docs:
 
+- [ ] как вести две языковые версии?
 - [ ] [как мы сортируем левый боковик](https://github.com/mkdocs/mkdocs/issues/2113)
 - [ ] украшения, "admonitions"
 - [ ] эмблемка twitter из шритфов
-- [ ] docs folder vs gh-pages branch for Github Pages
+- [ ] docs folder vs gh-pages branch for Github Pages (gh-pages no longer an option)
 - [ ] [кнопка edit показывает не туда сейчас](https://github.com/chaos-manual/docs/issues/1)
  
+Done:
+
+- [x] Cite authors (EP, DY)

@@ -1,6 +1,6 @@
 # Chaos Engineering Manual
 
-## Introduction
+<!-- ## Introduction -->
 
 We document a chaos engineering process the way it works 
 in industrial-grade practice. It's not magic, it's just 
@@ -8,10 +8,12 @@ plenty of things to care about and decide on.
 
 ## Who can use this manual?
 
-- highload projects (cost implementation)
-- actively maintained (detecting a detecting vulnerability without fixing will not help)
-- distributed systems (fewer things break in a monolith)
-- mature mindset for reliability (attach value and willing to allocate resources for system reliability)
+In our opinion CE is most relevant for:
+
+- highload projects (benefits > cost of implementation)
+- actively maintained (you can both detect and fix a vulnerability)
+- distributed system (fewer things break in a monolith)
+- ready mindsets (the team attaches value to system reliability and is willing to allocate time and resources to keep it up)
 
 ## Process // Как мы работаем
 

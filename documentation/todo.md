@@ -22,14 +22,13 @@ Priority:
 - [ ] Blog posts and other outputs
 - [ ] Collect feedback 
 
+Wishlist:
+
+- не нравится "Three step process"
+
 Maybe:
 
 - [ ] ссылка на какой-то личный профиль Димы (у меня Твиттер)
-
-Not todo:
-
-- [ ] поменять что-то с v10n.com (пока как есть)
-- [ ] Slack channels chaos-manual, chaos-manual-ru
 
 Прошлые материалы:
 
@@ -53,3 +52,8 @@ Not todo:
 Done:
 
 - [x] Cite authors (EP, DY)
+
+Not todo:
+
+- [ ] поменять что-то с v10n.com (пока как есть)
+- [ ] Slack channels chaos-manual, chaos-manual-ru

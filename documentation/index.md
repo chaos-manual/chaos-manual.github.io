@@ -43,9 +43,8 @@ In our opinion CE is most relevant for:
 
 ## Authors
 
-This manual is written by Dmitry Yakubovsky (Sberbank) and
-[Evgeniy Pogrebnyak (MGIMO)](https://twitter.com/PogrebnyakE).  
-
+This manual is written by [Dmitry Yakubovsky (Sberbank)](https://twitter.com/d_yakubovsky) 
+and [Evgeniy Pogrebnyak (MGIMO)](https://twitter.com/PogrebnyakE).  
 
 ## Feedback from the readers
 

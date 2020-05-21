@@ -26,7 +26,6 @@ Decisions:
 
 - не нравится "Three step process"
 
-
 ## Прошлые материалы:
 
 - [ ] CE obstacles - почему не взлетает CE - дискуссия  c Jade
@@ -37,6 +36,10 @@ Decisions:
       "Netflix придумал горячее тестирование систем с внедрнием контролируемых разрушений"
        не видна в презентации (переписка в TG) 
 
+## Maybe
+
+- [ ] поменять что-то с v10n.com (пока как есть) For more business-level perspective please see [v10n.com](https://v10n.com)
+
 ## Разобрться с деталями #docs:
 
 - [ ] как вести две языковые версии?
@@ -44,7 +47,7 @@ Decisions:
 - [ ] эмблемка twitter из шритфов
 - [ ] docs folder vs gh-pages branch for Github Pages (gh-pages no longer an option)
  
-Done:
+## Done:
 
 - [x] Cite authors (EP, DY)
 - [ ] follow-up: DY Twitter personal info
@@ -52,7 +55,8 @@ Done:
 - [x] docs: [кнопка edit показывает не туда сейчас](https://github.com/chaos-manual/docs/issues/1)
 
 
-Not todo:
+## Not todo:
 
-- [ ] поменять что-то с v10n.com (пока как есть)
 - [ ] Slack channels chaos-manual, chaos-manual-ru
+
+

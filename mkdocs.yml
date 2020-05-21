@@ -16,6 +16,7 @@ site_dir: docs
 
 repo_name: chaos-manual/docs
 repo_url: https://github.com/chaos-manual/docs
+edit_uri: '/chaos-manual/docs/edit/master/documentation/'
 
 
 markdown_extensions:

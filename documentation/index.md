@@ -12,9 +12,9 @@ feedback and questions.
 
 Things we present are not dark magic. They are not about 
 buying into any expensive stuff. They are about sensible steps 
-in aquiring competences and changing your workflow that make 
-your IT system more reliable and your team more confident and 
-prepared.
+in aquiring competences and changing your workflow. As a result 
+your IT system is more reliable and your team gets more confident 
+and prepared.
 
 Getting more 9's is a journey, not a single act, so let's start!
 

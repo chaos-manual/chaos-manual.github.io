@@ -12,7 +12,7 @@ feedback and questions.
 
 Things we present are not dark magic. They are not about 
 buying into any expensive stuff. They are about sensible steps 
-in aquiring competences and changing your workflow. As a result 
+in acquiring competences and changing your workflow. As a result 
 your IT system is more reliable and your team gets more confident 
 and prepared.
 

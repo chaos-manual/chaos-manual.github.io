@@ -7,7 +7,7 @@ Decisions:
 - we now deliver to Github pages via docs folder, not through master
 - we need two language versions (in Russian as we discuss, English for wider community)
 
-Priority:
+## Priority:
 
 * [ ] Find copywriter
 * [ ] Pick topics for v 0.1
@@ -17,20 +17,17 @@ Priority:
     * [ ] Прошлые материалы
 - [ ] Show to some readers! 
 
-Кому рассказываем:
+## Кому рассказываем:
 
 - [ ] Blog posts and other outputs
 - [ ] Collect feedback 
 
-Wishlist:
+## Wishlist:
 
 - не нравится "Three step process"
 
-Maybe:
 
-- [ ] ссылка на какой-то личный профиль Димы (у меня Твиттер)
-
-Прошлые материалы:
+## Прошлые материалы:
 
 - [ ] CE obstacles - почему не взлетает CE - дискуссия  c Jade
 
@@ -40,7 +37,7 @@ Maybe:
       "Netflix придумал горячее тестирование систем с внедрнием контролируемых разрушений"
        не видна в презентации (переписка в TG) 
 
-Разобрться с деталями #docs:
+## Разобрться с деталями #docs:
 
 - [ ] как вести две языковые версии?
 - [ ] украшения, "admonitions"
